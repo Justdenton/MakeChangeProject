@@ -108,7 +108,7 @@ public class CashRegister {
 		if (remainingAmount >= 0.01) {
 			int counter = (int) (remainingAmount / 0.01);
 			remainingAmount -= counter * 0.01;
-			System.out.println("\t(" + counter + ") - $1");
+			System.out.println("\t(" + counter + ") - $0.01");
 		}
 	}
 
