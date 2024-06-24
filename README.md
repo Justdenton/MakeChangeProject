@@ -9,7 +9,7 @@
 ### How to Run:
 
 * Prompts the user (attendant) for the cost of an item.
-* Prompts the user (attendant) the the amount of money the shopper handed the attendant. 
+* Prompts the user (attendant) for the amount of money the shopper handed the attendant. 
 * Determines if change is due to the shopper.
 * Provides a change breakdown (denominations) for the attendant. 
 	* Omits any unused denominations.
