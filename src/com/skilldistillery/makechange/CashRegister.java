@@ -27,7 +27,9 @@ public class CashRegister {
 		} else {
 			calcChange(trustTendered, trustPrice); // "if" change is due, calls calcChange
 		}
-
+		
+		scanner.close();
+		
 	}
 
 	// USER INPUT METHODS - These get called in main.
