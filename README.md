@@ -30,6 +30,7 @@
 * For programs that need to filter out multiple sets of numbers, best practice (at least for now) is to work in descending order.
 
 * When laying out the layers/logic of the program, it's best to start with the "easiest" functional parts, then add to that (rather than trying to think of the project as a whole). It's much easier to edit formatting etc. once you have the program functional & TEST OFTEN.
+	* You can learn more from starting and fixing mistakes than trying to figure it all out at once. 
 
 * It can be helpful to review your code with a peer, or someone else with no coding experience. This can help you find errors; and reinforce what you have learned while explaining the process to them.  
 
